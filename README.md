@@ -1,2 +1,2 @@
 # Matching_Imagination
-Put the lid on it.
+Please switch to the "master" branch of this repo.
